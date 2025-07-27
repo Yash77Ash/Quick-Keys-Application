@@ -115,7 +115,6 @@ QuickKeys is a car rental web application designed to streamline the process of 
 - **Spring MVC**
 - **Spring Data JPA**
 - **MySQL**
-- **Lombok**
 - **Thymeleaf**
 
 ---
@@ -124,7 +123,5 @@ QuickKeys is a car rental web application designed to streamline the process of 
 
 1. Clone the repository:
    ```bash
-   g[it clone https://github.com/yourusername/quickkeys.git](https://github.com/Yash77Ash/Quick-Keys-Application.git)
-   cd quickkeys
-
+   git clone https://github.com/Yash77Ash/Quick-Keys-Application.git
    cd quickkeys
